@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gozie</h1>
 - 🌱 I’m currently learning **Next,Prisma,GSAP,Three.js**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
