@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gozie</h1>
-- 🌱 I’m currently learning Next,Prisma,GSAP,Three.js
+- 🌱 I’m currently learning Next,Prisma,GSAP,Golang
 
 <p align="left">
 </p>
